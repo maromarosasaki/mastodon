@@ -1,6 +1,6 @@
 Maromaro Mastodonサーバでつかってるgit
 ========
-https://mastodon.maromaro.co.jp/web/statuses/new
+https://mastodon.maromaro.co.jp/
 
 本家はこちらです！
 
